@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.stream.Stream;
 
-// very unefficient, > n^2 time complexity
+// very inefficient, > n^2 time complexity
 
 public class DayThreePt2 {
 
