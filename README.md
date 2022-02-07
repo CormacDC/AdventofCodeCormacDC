@@ -24,4 +24,4 @@ All code and necessary files for each day may be found in its respective folder
 
 1. Edit the `binarylist.txt` file to your specific input
 
-2. Compile and run `DayThree.java`
+2. Compile and run `DayThree.java` and `DayThreePt2.java`
